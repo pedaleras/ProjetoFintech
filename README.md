@@ -21,8 +21,10 @@ usuário e oferece recomendações específicas para otimizar suas finanças.</p
 <p><strong>Curiosidade:</strong></p>
 <p>A ideia do projeto J.U.L.I.O. é uma referência ao Julius, pai do Chris, da série “Todo mundo 
 odeia o Chris”. É um acrônimo para:</p>
-• Justiça Financeira
-• Uso Inteligente do Dinheiro
-• Liberdade Financeira
-• Inteligência Financeira
-• Otimização de Soluçõe
+<ul>
+  <li><strong>• J</strong>ustiça Financeira</li>
+  <li><strong>• U</strong>so Inteligente do Dinheiro</li>
+  <li><strong>• L</strong>iberdade Financeira</li>
+  <li><strong>• I</strong>nteligência Financeira</li>
+  <li><strong>• O</strong>timização de Soluções</li>
+</ul>
