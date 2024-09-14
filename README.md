@@ -1,30 +1,27 @@
-Projeto Fintech, chamado J.U.L.I.O.
-<br/>
+# Projeto Fintech, chamado J.U.L.I.O.
 
-<p><strong>Para:</strong> pessoas que desejam ter um controle financeiro eficiente e simplificado.</p>
+**Para:** pessoas que desejam ter um controle financeiro eficiente e simplificado.
 
-<p><strong>Que estão insatisfeitos com:</strong> a complexidade e falta de personalização das ferramentas 
-financeiras existentes.</p>
+**Que estão insatisfeitos com:** a complexidade e falta de personalização das ferramentas 
+financeiras existentes.
 
-<p><strong>Nosso produto, “J.U.L.I.O.”, é uma:</strong> plataforma intuitiva e inteligente para gerenciamento 
-financeiro pessoal.</p>
+**Nosso produto, “J.U.L.I.O.”, é uma:** plataforma intuitiva e inteligente para gerenciamento 
+financeiro pessoal.
 
-<p><strong>Que fornece:</strong> Ele facilita o registro de gastos e ganhos, oferece análises detalhadas, e dá 
-orientações personalizadas sobre economia e investimentos.</p>
+**Que fornece:** Ele facilita o registro de gastos e ganhos, oferece análises detalhadas, e dá 
+orientações personalizadas sobre economia e investimentos.
 
-<p><strong>Ao contrário:</strong> das planilhas complicadas e aplicativos genéricos, o “J.U.L.I.O.” adapta-se às 
-necessidades individuais de cada usuário.</p>
+**Ao contrário:** das planilhas complicadas e aplicativos genéricos, o “J.U.L.I.O.” adapta-se às 
+necessidades individuais de cada usuário.
 
-<p><strong>Nosso produto:</strong> se destaca por sua inteligência artificial, que aprende com os hábitos do 
-usuário e oferece recomendações específicas para otimizar suas finanças.</p>
+**Nosso produto:** se destaca por sua inteligência artificial, que aprende com os hábitos do 
+usuário e oferece recomendações específicas para otimizar suas finanças.
 
-<p><strong>Curiosidade:</strong></p>
-<p>A ideia do projeto J.U.L.I.O. é uma referência ao Julius, pai do Chris, da série “Todo mundo 
-odeia o Chris”. É um acrônimo para:</p>
-<ul>
-  <li><strong>J</strong>ustiça Financeira</li>
-  <li><strong>U</strong>so Inteligente do Dinheiro</li>
-  <li><strong>L</strong>iberdade Financeira</li>
-  <li><strong>I</strong>nteligência Financeira</li>
-  <li><strong>O</strong>timização de Soluções</li>
-</ul>
+## Curiosidade
+A ideia do projeto J.U.L.I.O. é uma referência ao Julius, pai do Chris, da série “Todo mundo 
+odeia o Chris”. É um acrônimo para:
+- **J**ustiça Financeira
+- **U**so Inteligente do Dinheiro
+- **L**iberdade Financeira
+- **I**nteligência Financeira
+- **O**timização de Soluções
