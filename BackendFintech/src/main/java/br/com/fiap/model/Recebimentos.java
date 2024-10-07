@@ -1,8 +1,10 @@
-package model;
+package br.com.fiap.model;
+
+import br.com.fiap.model.abstracts.Transacao;
 
 import java.util.Date;
 
-public class Recebimentos extends Transacao{
+public class Recebimentos extends Transacao {
     private TipoRenda tipoRenda;
 
     public Recebimentos() {

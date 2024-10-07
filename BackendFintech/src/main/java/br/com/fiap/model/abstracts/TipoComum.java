@@ -1,4 +1,4 @@
-package model;
+package br.com.fiap.model.abstracts;
 
 public abstract class TipoComum {
     private int id;

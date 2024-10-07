@@ -1,4 +1,6 @@
-package model;
+package br.com.fiap.model.abstracts;
+
+import br.com.fiap.model.Usuario;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
@@ -40,7 +42,7 @@ public abstract class Transacao {
     }
 
     public String getDataString() {
-        var formatter = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+        SimpleDateFormat formatter = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
         return formatter.format(data);
     }
 

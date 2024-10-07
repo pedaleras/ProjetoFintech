@@ -1,4 +1,4 @@
-package model;
+package br.com.fiap.model;
 
 //semelhante ao Login()
 public class Usuario {
